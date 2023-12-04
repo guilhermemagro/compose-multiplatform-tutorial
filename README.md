@@ -1,4 +1,4 @@
-[Get started with Compose Multiplatform - tutorial] (https://www.jetbrains.com/help/kotlin-multiplatform-dev/compose-multiplatform-getting-started.html)
+[Get started with Compose Multiplatform - tutorial](https://www.jetbrains.com/help/kotlin-multiplatform-dev/compose-multiplatform-getting-started.html)
 
 ---
 
